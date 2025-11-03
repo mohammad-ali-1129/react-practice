@@ -19,7 +19,7 @@ function Button(){
             </p>
 
             <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora magni, esse qui autem doloribus optio repellat harum deserunt. Ipsam error quos repellendus quia sint quas neque nihil nesciunt hic cumque magnam excepturi facere fugit maiores, animi provident labore quidem pariatur dolore dolores reiciendis. Doloremque rem aliquid officiis tempore pariatur placeat autem, harum libero velit quod repudiandae expedita sunt labore ratione maxime perferendis dolore accusantium id minus non beatae modi nesciunt incidunt. Reiciendis assumenda cupiditate adipisci a voluptas exercitationem dolores nesciunt sequi, quas molestiae eligendi laudantium provident libero dignissimos voluptatum voluptatibus quis repellendus ex incidunt excepturi harum quos itaque consectetur! Voluptatum?
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora magni, esse qui autem d oloribus optio repellat harum deserunt. Ipsam error quos repellendus quia sint quas neque nihil nesciunt hic cumque magnam excepturi facere fugit maiores, animi provident labore quidem pariatur dolore dolores reiciendis. Doloremque rem aliquid officiis tempore pariatur placeat autem, harum libero velit quod repudiandae expedita sunt labore ratione maxime perferendis dolore accusantium id minus non beatae modi nesciunt incidunt. Reiciendis assumenda cupiditate adipisci a voluptas exercitationem dolores nesciunt sequi, quas molestiae eligendi laudantium provident libero dignissimos voluptatum voluptatibus quis repellendus ex incidunt excepturi harum quos itaque consectetur! Voluptatum?
             </p>
             <button onDoubleClick={handleDblClick}>
                 Double click me!
